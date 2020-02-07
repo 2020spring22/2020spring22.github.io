@@ -1,7 +1,8 @@
 @charset "UTF-8";
 body {
 	background-image: url("https://i.ibb.co/P9YRVHN/dark-black-and-white-abstract-black-background-76353-1280x720.jpg");
-	color:FloralWhite
+	color:FloralWhite;
+	text-align: center;
 	
 }
 h1 {
@@ -10,21 +11,26 @@ h1 {
 	border-color: #F5F5F5;
 	background-color: darkslategrey;
 	font-family: sans-serif;
+	text-align: center;
 }
 h3 {
 	border-style: groove;
 	border-width: 4px;
 	border-color: navajowhite;
-	background-color: darkslategrey
+	background-color: darkslategrey;
+	text-align: center;
 }
 ul {
 	border-style: inset;
 	border-radius: 18px;
 	border-width: 5px;
 	font-size: 20px;
+	text-align: center;
+	
 }
 h4 {
 	border-style: groove;
 	background-color: floralwhite;
 	color: floralwhite;
+	text-align: center;
 }
