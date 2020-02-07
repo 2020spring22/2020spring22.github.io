@@ -1,7 +1,6 @@
 @charset "UTF-8";
 body {
 	background-image: url("https://i.ibb.co/P9YRVHN/dark-black-and-white-abstract-black-background-76353-1280x720.jpg");
-	fontfamily: sans-serif;
 	color:FloralWhite
 	
 }
@@ -10,6 +9,7 @@ h1 {
 	border-width: 3px;
 	border-color: #F5F5F5;
 	background-color: darkslategrey;
+	font-family: sans-serif;
 }
 h3 {
 	border-style: groove;
