@@ -12,6 +12,7 @@ h1 {
 	background-color: darkslategrey;
 	font-family: sans-serif;
 	text-align: center;
+	line-height: 100px;
 }
 h3 {
 	border-style: groove;
