@@ -27,7 +27,7 @@ ul {
 	border-width: 5px;
 	font-size: 20px;
 	text-align: center;
-	padding-bottom ;
+	
 	
 }
 h4 {
@@ -35,4 +35,7 @@ h4 {
 	background-color: floralwhite;
 	color: floralwhite;
 	text-align: center;
+}
+p {
+	padding: 35px;
 }
