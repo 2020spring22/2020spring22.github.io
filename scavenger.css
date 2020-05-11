@@ -7,6 +7,9 @@ body {
 
 	
 }
+ol li{
+	list-style:none!important;
+	}
 li {
 	font-weight: bold;
 	color:#ffcc00;
